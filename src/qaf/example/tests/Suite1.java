@@ -12,7 +12,7 @@ public class Suite1 extends WebDriverTestCase {
         sendKeys("Git reporsitory QAF", "txt.searchbox");
         submit("txt.searchbox");
         verifyLinkWithPartialTextPresent("qaf");
-        System.out.println("test@@@@@@@@@@@@!!!");
+        System.out.println("test@@@@@@@@@@@@!!!!!!!!");
     }
 
 
